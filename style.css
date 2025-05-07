@@ -1,0 +1,14 @@
+.nav-link:hover{
+    color: #324253!important;
+}
+
+.btn-hover:hover{
+    color: #324253!important;
+}
+
+.carousel-item img{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
